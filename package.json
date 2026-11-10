@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "dsh-drift",
   "version": "0.1.0",
   "description": "Capability drift detection for DSH plugins: store a baseline, then report only what a later upgrade NEWLY gained (install hooks, shell/eval, outbound hosts, credential paths, native deps). | 插件能力漂移检测：存基线，升级后只报新增能力。",
